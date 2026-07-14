@@ -29,11 +29,10 @@ namespace WandEnhancer.Utils
                 Thread.Sleep(250);
             }
             
-            !
-			// if (processes.Length > 0)
-            // {
-            //     throw new Exception("Failed to kill WeMod");
-            // }
+            //if (processes.Length > 0)
+            //{
+            //    throw new Exception("Failed to kill WeMod");
+            //}
         }
 
         public static string GetCurrentDir()
